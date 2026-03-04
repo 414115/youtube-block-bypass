@@ -2,6 +2,10 @@
 # TUTORIALS FOR LINKS AND EMBED
 different ways to bypass the youtube block
 
+# IMPORTANT
+
+if youre too lazy for code editors i have the links to download in linksplsread
+
 
 # link tutorial
 to get youtube links, look up the video you want on google and copy link
