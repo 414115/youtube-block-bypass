@@ -9,7 +9,7 @@ to get youtube links, look up the video you want on google and copy link
 
 <img src="blob:chrome-untrusted://media-app/17f68164-7a86-4966-8f60-6bf5dfe5d5bd" alt="Screenshot 2026-03-04 10.15.34 AM.png"/><img width="546" height="462" alt="image" src="https://github.com/user-attachments/assets/a6d7f5bd-481b-4e7e-8ada-4a22951a22ab" />
 
-then paste it into codemain or whatever i named it (i kinda forgot)
+then paste it into codemain embed (tutorial right under this) or whatever i named it (i kinda forgot)
 
 # embed tutorial
 copy raw file
